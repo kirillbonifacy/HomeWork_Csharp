@@ -19,7 +19,7 @@ while (i <= N)
 i = i + 1;
 }
 
-if (no)
+if (no == true)
 {
     Console.WriteLine("Нет чётных чисел!");
 }
